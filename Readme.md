@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to apply the Bootstrap Confirmation dialog box to ASPxButton
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t496301/)**
+<!-- run online end -->
 
 
 This example illustrates how to apply the <a href="http://bootstrap-confirmation.js.org/">Bootstrap Confirmation</a> dialog to ASPxButton. <br><br>Since this dialog can be applied only to the <em>button</em> and <em>a</em> tags, while our ASPxButton generates the <em>input</em> tag inside, this confirmation dialog cannot be applied to the button directly. As a workaround, wrap ASPxButton with the <em>a</em> tag and show the confirmation dialog on a button click. In this case, the action should be performed by another (hidden) button: <br>
