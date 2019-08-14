@@ -8,13 +8,13 @@
 <head runat="server">
     <title></title>
     <script type="text/javascript" src="jquery-3.2.0.min.js"></script>
-    <link type="text/css" href="bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link type="text/css" href="Scripts/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" />
 
     <!-- Optional theme -->
-    <link type="text/css" href="bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" rel="stylesheet" />
+    <link type="text/css" href="Scripts/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" rel="stylesheet" />
     <!-- Latest compiled and minified JavaScript -->
-    <script type="text/javascript" src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
-    <script src="bootstrap-confirmation.min.js"></script>
+    <script type="text/javascript" src="Scripts/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+    <script src="Scripts/bootstrap-confirmation.min.js"></script>
 </head>
 <body>
     <form id="form1" runat="server">
